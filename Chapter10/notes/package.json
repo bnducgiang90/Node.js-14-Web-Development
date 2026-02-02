@@ -13,7 +13,7 @@
     "docker-build": "docker build -t svc-notes ."
   },
   "dependencies": {
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.1",
     "bootstrap": "^4.4.1",
     "connect-redis": "^4.0.4",
     "cookie-parser": "^1.4.4",
@@ -43,7 +43,7 @@
     "sequelize": "^5.21.3",
     "socket.io": "^2.3.0",
     "socket.io-redis": "^5.2.0",
-    "sqlite3": "^4.1.1",
+    "sqlite3": "^5.0.3",
     "superagent": "^5.2.1"
   }
 }
